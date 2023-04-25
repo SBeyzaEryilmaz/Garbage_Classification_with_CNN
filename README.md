@@ -10,6 +10,6 @@ TrashNet isimli Cam,Kağıt,Metal,Karton,Plastik ve Çöp olmak üzere altı far
 
 [EN] The CNN (Convolutional Neural Network) approach was used in this project to classify recyclable garbage.
 
-TrashNet, a data set made up of six different classifications, Glass, Paper, Metal, Cardboard, Plastic, and Garbage, was used.
+TrashNet, a data set made up of six different classifications, Glass, Paper, Metal, Cardboard, Plastic, and Trash, was used.
 
 The data set is available at [Dataset](https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification)
